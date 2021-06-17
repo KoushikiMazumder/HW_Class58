@@ -1,0 +1,20 @@
+body {
+    text-align: center
+    }
+.menu{
+    list-style: none;
+    font-family: 'Rubik', sans-serif;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: blue;
+}
+h1{
+    font-family: 'Rubik', sans-serif;
+}
+.links:hover {
+    background-color: fuchsia;
+    text-decoration-color: chartreuse;
+    font-family: monospace;
+}
